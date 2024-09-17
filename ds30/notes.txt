@@ -1,0 +1,29 @@
+ds30
+
+1a. reference to a mutable is also mutable, and is changed with list class method
+int is immutable, so only the copy is passed, and it goes away when we get out of scope
+
+b. there is not way to access the list, even if the operation is performed
+
+2a. not a class method so the reference x is changed to reference a new list
+
+b. never, since we are losing the reference by making the variable refer to something else
+
+
+econ
+supply and demand
+
+prices
+s - sellers - households might be sellers of labor in labor market
+d - buyers
+
+he said he felt that he talked too fast last time and its going to happen again
+
+in planned economy the input prices (price of labor etc) is also decided by the gov
+
+change in q demanded != change in demand
+
+change in QD = change where we are on the curve
+change in demand - the entire curve shifts
+
+if you solve but result does not make sense, then the math is wrong - acknowledge that something must have went wrong for partial credits
